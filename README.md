@@ -50,6 +50,5 @@ Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019
 [Bodegó 2](P10.tif)
 
 ## p11
-
 [Imonstruet](P11 .tif)
 
