@@ -1,7 +1,8 @@
 # TdPiED-3DG
 ## p1
 [Quan tu vas ella torna](P1.gif)
-[Quan tu vas ella torna](P1Blanc.gif)
+
+[No li pegues tantes voltes](P1Blanc.gif)
 
 #  p2
 Text extruit amb forma dona
