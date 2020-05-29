@@ -52,3 +52,4 @@ Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019
 ## p11
 [Imonstruet](P11.tif)
 
+
