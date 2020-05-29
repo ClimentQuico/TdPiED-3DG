@@ -1,10 +1,11 @@
 # TdPiED-3DG
 ## p1
 [Quan tu vas ella torna](P1.gif)
+[Quan tu vas ella torna](P1Blanc.gif)
 
 #  p2
 Text extruit amb forma dona
-[''xaloc''](p2.gif)
+[''xaloc''](P2m.gif)
 
 ##  p3
 Text extruit amb rotació
